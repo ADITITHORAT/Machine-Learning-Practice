@@ -8,6 +8,7 @@ Currently, it includes implementations of
 1. Logistic Regression
 2. K-Means Clustering
 3. Hierarchical Clustering
-4. DBSCAN.
+4. DBSCAN
+
 Each folder has its own dataset, preprocessing steps, and performance analysis to understand the algorithm end-to-end.
 
