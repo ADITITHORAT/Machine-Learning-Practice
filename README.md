@@ -11,6 +11,7 @@ Currently, it includes implementations of
 4. DBSCAN
 5. Recommendation System
 6. Association Rule
+7. PCA
 
 Each folder has its own dataset, preprocessing steps, and performance analysis to understand the algorithm end-to-end.
 
