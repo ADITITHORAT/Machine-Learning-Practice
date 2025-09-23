@@ -7,6 +7,7 @@ Each folder represents a separate topic, where I go from EDA (Exploratory Data A
 
 ## 📘 Supervised Learning
 - Logistic Regression
+- Random Forest
 
 ---
 
